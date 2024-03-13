@@ -1,0 +1,35 @@
+.search{
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+    height: auto;
+    top: 0; right: 0; bottom: 0; left: 0;
+    border: 5px solid lightskyblue; 
+  
+}
+
+.explore{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 132, 0);
+}
+
+.receipe{
+    width: 100%;
+    height: auto;
+    padding: 1% 1% 1% 1%;
+
+}
+
+.input{
+    max-width: 50%;
+    text-align: center;
+    margin: center;
+    border-radius: 12px;
+    
+}
+
+.button{
+    border-radius: 10px;
+}
+

@@ -1,0 +1,7 @@
+.contain{
+    margin: 5%;
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+   
+
+}
